@@ -1,8 +1,8 @@
 ![logo](https://github.com/kalvik-dev/kalvik-dev/blob/main/githubimg.png)
-<h1 align="center">Hi 👋, I'm Vivek K</h1>
+<h1 align="center">Hi 👋, I'm Vivek Kaloori</h1>
 <h3 align="center">Software Development Engineer</h3>
 
-<!-- <img alt="coding" align="right" width="300px" height="200px" src="https://camo.githubusercontent.com/87af9a9fec730c94fc8b08eb21fa5ef6ab7831a67ba17bf8cc76696f6e4be1ef/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966"> -->
+<img alt="coding boy" align="right" width="250px" height="250px" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalvik-dev&label=Profile%20Views&color=0e75b6&style=flat" alt="kalvik-dev" /> </p>
 
@@ -71,6 +71,6 @@
 </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kalvik-dev&show_icons=true&locale=en&layout=compact" alt="kalvik-dev" /></p>
+<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kalvik-dev&show_icons=true&locale=en&layout=compact" alt="kalvik-dev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kalvik-dev&show_icons=true&locale=en" alt="kalvik-dev" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kalvik-dev&show_icons=true&locale=en" alt="kalvik-dev" /></p>-->
