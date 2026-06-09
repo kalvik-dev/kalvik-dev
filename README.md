@@ -1,12 +1,37 @@
 ![logo](https://github.com/kalvik-dev/kalvik-dev/blob/main/githubimg.png)
 <h1 align="center">Hi 👋, I'm Vivek Kaloori</h1>
-<h3 align="center">Software Development Engineer</h3>
+<h3 align="center">Software Engineer | Building AI-Powered Applications & Agents</h3>
 
 <img alt="coding boy" align="right" width="250px" height="250px" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalvik-dev&label=Profile%20Views&color=0e75b6&style=flat" alt="kalvik-dev" /> </p>
 
 <!-- - 👨‍💻 All of my projects are available at [https://kalvik-dev.github.io/html-porifolio-advance/](https://kalvik-dev.github.io/html-porifolio-advance/) -->
+<h3 align="left">About Me</h3>
+
+- Software Engineer from India
+- Building AI-powered applications, chatbots, and agent-based systems with Python, React, Node.js, and PostgreSQL
+- Working with LLM APIs, backend systems, and full-stack development
+- Focused on integrating AI into real-world products and workflows
+- Interested in scalable AI systems, RAG pipelines, and automation tools
+- Continuously improving my problem-solving and full-stack development skills
+
+<!-- ## Featured Work
+
+- AI Chatbot (LLM-based conversational assistant)
+- Agent-based automation tool using tool/function calling
+- Backend API integrations with LLM services -->
+
+<!-- ## Current Focus
+
+- Building AI-powered applications with LLM APIs
+- Designing agent-based workflows and automation systems
+- Backend architecture for scalable AI applications
+- Improving system design and API orchestration -->
+
+
+
+<h3 align="left">Contact</h3>
 
 - 📫 How to reach me **kalvik.dev@gmail.com**
 
@@ -16,7 +41,7 @@
 <a href="https://www.leetcode.com/vivekkaloori123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vivekkaloori123" height="30" width="40" style="margin-left: 8px;"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Tech Stack & Tools:</h3>
 <p align="left">
 <!-- Python -->
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -70,6 +95,9 @@
 <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40" style="margin-left: 5px;"/>
 </a>
 </p>
+</br>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kalvik-dev&theme=github_dark" />
+<!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kalvik-dev&theme=tokyonight" /> -->
 
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kalvik-dev&show_icons=true&locale=en&layout=compact" alt="kalvik-dev" /></p>
 
